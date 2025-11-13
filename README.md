@@ -1,4 +1,4 @@
-# AI-Storingssetective
+# AI-Storingsdetective
 
 Uitkomsten Hackaton 6 november 2025
 
@@ -9,4 +9,4 @@ Doelen:
 - Kunnen evalueren van de kwaliteit van de AI-diagnose.
 - Met AI uitvoerbare en betrouwbare herstelprocedure opstellen.
 
-In dit project vind je de door de deelnemers opgeleverde producten.
+In dit project vind je de door de deelnemers aan de hackathon opgeleverde producten.
