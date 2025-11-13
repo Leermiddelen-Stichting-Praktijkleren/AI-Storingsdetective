@@ -1,3 +1,5 @@
+Opzet: https://chatgpt.com/share/690c6fa8-0ea4-8008-b3a9-8b63f659ea05
+
 
 - Diagnose: Wat is de meest waarschijnlijke oorzaak? https://gemini.google.com/gem/1wCVLOLjRoNFIRR4A_12eCaGMcJ1TIgQT?usp=sharing
 - Betrouwbaarheid: Hoe zeker ben je van deze diagnose (in %)? https://gemini.google.com/gem/10usnqcUhYsFN2WMM_UO3UXzN0O3E-1Uh?usp=sharing
