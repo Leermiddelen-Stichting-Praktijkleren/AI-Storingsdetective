@@ -1,4 +1,4 @@
-# AI-Storingsdetective
+# AI-Storingsdetective-Hackathon
 
 Uitkomsten Stichting Praktijkleren Hackaton 6 november 2025
 
